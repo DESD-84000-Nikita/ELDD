@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Desktop/eldd_practice/ELDD_Assignments/Multidevice_Ass1/modules.order := {   echo /home/sunbeam/Desktop/eldd_practice/ELDD_Assignments/Multidevice_Ass1/pchar.ko; :; } > /home/sunbeam/Desktop/eldd_practice/ELDD_Assignments/Multidevice_Ass1/modules.order

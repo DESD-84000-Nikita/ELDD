@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Desktop/eldd_practice/ELDD_Assignments/Multidevice_Ass1/Module.symvers :=  sed 's/ko$$/o/'  /home/sunbeam/Desktop/eldd_practice/ELDD_Assignments/Multidevice_Ass1/modules.order | scripts/mod/modpost -m -a    -o /home/sunbeam/Desktop/eldd_practice/ELDD_Assignments/Multidevice_Ass1/Module.symvers -e -i Module.symvers -T - 
