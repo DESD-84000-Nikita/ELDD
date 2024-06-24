@@ -1,1 +1,0 @@
-cmd_/home/ghanshyam/Desktop/ELDD/Assignments/pchar05-waitque_ass3/pchar.mod := printf '%s\n'   pchar.o | awk '!x[$$0]++ { print("/home/ghanshyam/Desktop/ELDD/Assignments/pchar05-waitque_ass3/"$$0) }' > /home/ghanshyam/Desktop/ELDD/Assignments/pchar05-waitque_ass3/pchar.mod
